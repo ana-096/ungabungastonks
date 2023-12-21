@@ -1,3 +1,5 @@
 main.ipynb
-main_bt.ipynb
+# main_bt.ipynb
 *.csv
+*.html
+*.ignore
